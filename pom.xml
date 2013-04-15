@@ -4,7 +4,7 @@
 	<groupId>com.adgear</groupId>
 	<name>user-agent-utils</name>
 	<url>https://github.com/frankgrimes97/user-agent-utils-1</url>
-	<artifactId>UserAgentUtils</artifactId>
+	<artifactId>user-agent-utils</artifactId>
 	<version>1.0</version>
 	<description>Utility classes to handle user-agents.</description>
 
